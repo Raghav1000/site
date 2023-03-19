@@ -1,0 +1,45 @@
+/* Anonymous pro  */
+
+@font-face {
+    font-family: 'AnonymousPro';
+    font-weight: normal;
+    src: url('/fonts/anonymous-pro/AnonymousPro-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'AnonymousPro';
+    font-weight: bold;
+    src: url('/fonts/anonymous-pro/AnonymousPro-Bold.ttf');
+}
+
+/* Labil Grotesk */
+
+@font-face {
+    font-family: 'LabilGrotesk';
+    font-weight: 100;
+    src: url('/fonts/labil-grotesk/LabilGrotesk-thin.ttf');
+}
+
+@font-face {
+    font-family: 'LabilGrotesk';
+    font-weight: 200;
+    src: url('/fonts/labil-grotesk/LabilGrotesk-light.ttf');
+}
+
+@font-face {
+    font-family: 'LabilGrotesk';
+    font-weight: 400;
+    src: url('/fonts/labil-grotesk/LabilGrotesk-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'LabilGrotesk';
+    font-weight: 500;
+    src: url('/fonts/labil-grotesk/LabilGrotesk-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'LabilGrotesk';
+    font-weight: bold;
+    src: url('/fonts/labil-grotesk/LabilGrotesk-Bold.ttf');
+}
